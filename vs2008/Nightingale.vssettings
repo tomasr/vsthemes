@@ -16,14 +16,14 @@
 							<Item Name="ChangedText" Foreground="0x000000FF" Background="0x02000000" BoldFont="No" />
 						</Items>
 					</Category>
-					<Category GUID="{40660F54-80FA-4375-89A3-8D06AA954EBA}" FontName="Envy Code R VS" FontSize="14" CharSet="0" FontIsDefault="No">
+					<Category GUID="{40660F54-80FA-4375-89A3-8D06AA954EBA}" FontName="Envy Code R VS" FontSize="13" CharSet="0" FontIsDefault="No">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x0000FF80" Background="0x00202020" BoldFont="No" />
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No" />
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No" />
 						</Items>
 					</Category>
-					<Category GUID="{5C48B2CB-0366-4FBF-9786-0BB37E945687}" FontName="Envy Code R VS" FontSize="14" CharSet="0" FontIsDefault="No">
+					<Category GUID="{5C48B2CB-0366-4FBF-9786-0BB37E945687}" FontName="Envy Code R VS" FontSize="13" CharSet="0" FontIsDefault="No">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x0000FF80" Background="0x00202020" BoldFont="No" />
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No" />
@@ -31,7 +31,7 @@
 							<Item Name="Current list location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No" />
 						</Items>
 					</Category>
-					<Category GUID="{6BB65C5A-2F31-4BDE-9F48-8A38DC0C63E7}" FontName="Envy Code R VS" FontSize="14" CharSet="0" FontIsDefault="No">
+					<Category GUID="{6BB65C5A-2F31-4BDE-9F48-8A38DC0C63E7}" FontName="Envy Code R VS" FontSize="13" CharSet="0" FontIsDefault="No">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x0000FF80" Background="0x00202020" BoldFont="No" />
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No" />
@@ -45,7 +45,7 @@
 							<Item Name="ChangedText" Foreground="0x000000FF" Background="0x02000000" BoldFont="No" />
 						</Items>
 					</Category>
-					<Category GUID="{9973EFDF-317D-431C-8BC1-5E88CBFD4F7F}" FontName="Envy Code R VS" FontSize="14" CharSet="0" FontIsDefault="No">
+					<Category GUID="{9973EFDF-317D-431C-8BC1-5E88CBFD4F7F}" FontName="Envy Code R VS" FontSize="13" CharSet="0" FontIsDefault="No">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x0000FF80" Background="0x00202020" BoldFont="No" />
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No" />
@@ -53,14 +53,14 @@
 							<Item Name="Current list location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No" />
 						</Items>
 					</Category>
-					<Category GUID="{9E632E6E-D786-4F9A-8D3E-B9398836C784}" FontName="Envy Code R VS" FontSize="14" CharSet="0" FontIsDefault="No">
+					<Category GUID="{9E632E6E-D786-4F9A-8D3E-B9398836C784}" FontName="Envy Code R VS" FontSize="13" CharSet="0" FontIsDefault="No">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x0000FF80" Background="0x00202020" BoldFont="No" />
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No" />
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No" />
 						</Items>
 					</Category>
-					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Envy Code R VS" FontSize="15" CharSet="0" FontIsDefault="No">
+					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Envy Code R VS" FontSize="13" CharSet="0" FontIsDefault="No">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x00EEEEEE" Background="0x00202020" BoldFont="No" />
 							<Item Name="Selected Text" Foreground="0x00000000" Background="0x00A3964E" BoldFont="No" />
@@ -152,14 +152,14 @@
 					<Category GUID="{C1614BB1-734F-4A31-BD42-5AE6275E16D2}" FontName="Tahoma" FontSize="8" CharSet="0" FontIsDefault="No">
 						<Items />
 					</Category>
-					<Category GUID="{CE2ECED5-C21C-464C-9B45-15E10E9F9EF9}" FontName="Envy Code R VS" FontSize="14" CharSet="0" FontIsDefault="No">
+					<Category GUID="{CE2ECED5-C21C-464C-9B45-15E10E9F9EF9}" FontName="Envy Code R VS" FontSize="13" CharSet="0" FontIsDefault="No">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x0000FF80" Background="0x00202020" BoldFont="No" />
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No" />
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No" />
 						</Items>
 					</Category>
-					<Category GUID="{EE1BE240-4E81-4BEB-8EEA-54322B6B1BF5}" FontName="Envy Code R VS" FontSize="14" CharSet="0" FontIsDefault="No">
+					<Category GUID="{EE1BE240-4E81-4BEB-8EEA-54322B6B1BF5}" FontName="Envy Code R VS" FontSize="13" CharSet="0" FontIsDefault="No">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x0000FF80" Background="0x00202020" BoldFont="No" />
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No" />
