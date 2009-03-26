@@ -9,7 +9,11 @@ function color($vscolor) {
    if ( $vscolor.StartsWith('0x02') ) {
       return $null
    } else {
-      return "#FF$($vscolor.substring(4,6))"
+      $rgb = $vscolor.substring(4,6)
+      $red = $rgb.substring(4,2)
+      $green = $rgb.substring(2,2)
+      $blue = $rgb.substring(0,2)
+      return "#FF$red$green$blue"
    }
 }
 function write-color($writer, $where, $color) {
