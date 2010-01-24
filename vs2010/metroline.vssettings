@@ -74,6 +74,7 @@
 							<Item Name="CSS Property Value" Foreground="0x00A5C7C7" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="CSS Selector" Foreground="0x007A00CC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS String Value" Foreground="0x0078B499" Background="0x00264637" BoldFont="Yes"/>
+							<Item Name="Current Line" Foreground="0x00515151" Background="0x00484848" BoldFont="No"/>
 							<Item Name="Definition Window Background" Foreground="0x01000002" Background="0x005B5B00" BoldFont="No"/>
 							<Item Name="Definition Window Current Match" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x002C0046" BoldFont="No"/>
@@ -87,6 +88,7 @@
 							<Item Name="HTML Tag Delimiter" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Identifier" Foreground="0x00A5C7C7" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Keyword" Foreground="0x00918049" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Keyword - Visibility" Foreground="0x00404080" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="Memory Changed" Foreground="0x004080FF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Number" Foreground="0x00D8AB6D" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Operator" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
