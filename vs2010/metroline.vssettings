@@ -61,7 +61,7 @@
 							<Item Name="Line Numbers" Foreground="0x008A9780" Background="0x002A291F" BoldFont="No"/>
 							<Item Name="Visible White Space" Foreground="0x00497674" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Brace Matching (Highlight)" Foreground="0x0054008C" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x006A695B" BoldFont="Yes"/>
+							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00800040" BoldFont="Yes"/>
 							<Item Name="Code Snippet Dependent Field" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Code Snippet Field" Foreground="0x02000000" Background="0x00004000" BoldFont="No"/>
 							<Item Name="Collapsible Text" Foreground="0x00464239" Background="0x01000003" BoldFont="No"/>
