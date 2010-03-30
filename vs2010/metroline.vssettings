@@ -74,7 +74,7 @@
 							<Item Name="CSS Property Value" Foreground="0x00A5C7C7" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="CSS Selector" Foreground="0x007A00CC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS String Value" Foreground="0x0078B499" Background="0x00264637" BoldFont="Yes"/>
-							<Item Name="Current Line" Foreground="0x00515151" Background="0x00484848" BoldFont="No"/>
+							<Item Name="Current Line" Foreground="0x006E6E6E" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Definition Window Background" Foreground="0x01000002" Background="0x005B5B00" BoldFont="No"/>
 							<Item Name="Definition Window Current Match" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x002C0046" BoldFont="No"/>
