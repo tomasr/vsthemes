@@ -104,11 +104,22 @@
 							<Item Name="Refactoring Background" Foreground="0x01000002" Background="0x001F1E17" BoldFont="No"/>
 							<Item Name="Refactoring Current Field" Foreground="0x02000000" Background="0x00C08080" BoldFont="No"/>
 							<Item Name="Refactoring Dependent Field" Foreground="0x000000FF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Comment" Foreground="0x00777E70" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Function Block Start" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Identifier" Foreground="0x00A5C7C7" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Keyword" Foreground="0x00918049" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Number" Foreground="0x00D8AB6D" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Operator" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script String" Foreground="0x0078B499" Background="0x00264637" BoldFont="No"/>
 							<Item Name="Smart Tag" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="SQL DML Marker" Foreground="0x00549779" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQL Stored Procedure" Foreground="0x00F9BE8A" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQL String" Foreground="0x0078B499" Background="0x00264637" BoldFont="No"/>
+							<Item Name="SQL System Function" Foreground="0x009797C6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQL System Table" Foreground="0x001CC8AF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Stale Code" Foreground="0x00353535" Background="0x02000000" BoldFont="No"/>
 							<Item Name="String" Foreground="0x0078B499" Background="0x00264637" BoldFont="Yes"/>
-							<Item Name="String(C# @ Verbatim)" Foreground="0x0050708C" Background="0x00292C1F" BoldFont="Yes"/>
+							<Item Name="String(C# @ Verbatim)" Foreground="0x0078B499" Background="0x00264637" BoldFont="Yes"/>
 							<Item Name="Text" Foreground="0x00D4DED6" Background="0x02000000" BoldFont="No"/>
 							<Item Name="urlformat" Foreground="0x00AF912B" Background="0x02000000" BoldFont="No"/>
 							<Item Name="User Types" Foreground="0x001CC8AF" Background="0x02000000" BoldFont="No"/>
