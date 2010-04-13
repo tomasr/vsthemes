@@ -9,6 +9,12 @@
 			<PropertyValue name="Version">2</PropertyValue>
 			<FontsAndColors Version="2.0">
 				<Categories>
+					<Category GUID="{00CCEE86-3140-4E06-A65A-A92665A40D6F}" FontName="Envy Code R VS" FontSize="12" CharSet="0" FontIsDefault="No">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x0055AE82" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x004A4A4A" BoldFont="No"/>
+						</Items>
+					</Category>
 					<Category GUID="{358463D0-D084-400F-997E-A34FC570BC72}" FontName="Tahoma" FontSize="8" CharSet="0" FontIsDefault="No">
 						<Items/>
 					</Category>
@@ -19,28 +25,28 @@
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 						</Items>
 					</Category>
-					<Category GUID="{5C48B2CB-0366-4FBF-9786-0BB37E945687}" FontName="Envy Code R VS" FontSize="14" CharSet="0" FontIsDefault="No">
+					<Category GUID="{5C48B2CB-0366-4FBF-9786-0BB37E945687}" FontName="Envy Code R VS" FontSize="12" CharSet="0" FontIsDefault="No">
 						<Items>
-							<Item Name="Plain Text" Foreground="0x00549779" Background="0x0015181A" BoldFont="No"/>
-							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Plain Text" Foreground="0x0055AE82" Background="0x0015181A" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x004A4A4A" BoldFont="No"/>
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
 						</Items>
 					</Category>
-					<Category GUID="{6BB65C5A-2F31-4BDE-9F48-8A38DC0C63E7}" FontName="Envy Code R VS" FontSize="14" CharSet="0" FontIsDefault="No">
+					<Category GUID="{6BB65C5A-2F31-4BDE-9F48-8A38DC0C63E7}" FontName="Envy Code R VS" FontSize="12" CharSet="0" FontIsDefault="No">
 						<Items>
-							<Item Name="Plain Text" Foreground="0x00549779" Background="0x0015181A" BoldFont="No"/>
-							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Plain Text" Foreground="0x0055AE82" Background="0x0015181A" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x004A4A4A" BoldFont="No"/>
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 						</Items>
 					</Category>
 					<Category GUID="{8259ACED-490A-41B3-A0FB-64C842CCDC80}" FontName="Tahoma" FontSize="8" CharSet="0" FontIsDefault="No">
 						<Items/>
 					</Category>
-					<Category GUID="{9973EFDF-317D-431C-8BC1-5E88CBFD4F7F}" FontName="Envy Code R VS" FontSize="14" CharSet="0" FontIsDefault="No">
+					<Category GUID="{9973EFDF-317D-431C-8BC1-5E88CBFD4F7F}" FontName="Envy Code R VS" FontSize="12" CharSet="0" FontIsDefault="No">
 						<Items>
-							<Item Name="Plain Text" Foreground="0x00549779" Background="0x0015181A" BoldFont="No"/>
-							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Plain Text" Foreground="0x0055AE82" Background="0x0015181A" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x004A4A4A" BoldFont="No"/>
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
 						</Items>
@@ -74,7 +80,7 @@
 							<Item Name="CSS Property Value" Foreground="0x00A5C7C7" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="CSS Selector" Foreground="0x007A00CC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS String Value" Foreground="0x0078B499" Background="0x00264637" BoldFont="Yes"/>
-							<Item Name="Current Line" Foreground="0x006E6E6E" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Current Line" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Definition Window Background" Foreground="0x01000002" Background="0x005B5B00" BoldFont="No"/>
 							<Item Name="Definition Window Current Match" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x002C0046" BoldFont="No"/>
@@ -88,7 +94,7 @@
 							<Item Name="HTML Tag Delimiter" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Identifier" Foreground="0x00A5C7C7" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Keyword" Foreground="0x00918049" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Keyword - Visibility" Foreground="0x00404080" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="Keyword - Visibility" Foreground="0x004E009B" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="Memory Changed" Foreground="0x004080FF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Number" Foreground="0x00D8AB6D" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Operator" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
@@ -160,10 +166,10 @@
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 						</Items>
 					</Category>
-					<Category GUID="{EE1BE240-4E81-4BEB-8EEA-54322B6B1BF5}" FontName="Envy Code R VS" FontSize="14" CharSet="0" FontIsDefault="No">
+					<Category GUID="{EE1BE240-4E81-4BEB-8EEA-54322B6B1BF5}" FontName="Envy Code R VS" FontSize="12" CharSet="0" FontIsDefault="No">
 						<Items>
-							<Item Name="Plain Text" Foreground="0x00549779" Background="0x0015181A" BoldFont="No"/>
-							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Plain Text" Foreground="0x0055AE82" Background="0x0015181A" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x004A4A4A" BoldFont="No"/>
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 						</Items>
 					</Category>
