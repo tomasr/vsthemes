@@ -141,7 +141,7 @@
 							<Item Name="XAML Markup Extension Parameter Value" Foreground="0x00CBDEDE" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Name" Foreground="0x001CC8AF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Processing Instruction" Foreground="0x0054008C" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XAML Text" Foreground="0x00D4DED6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Text" Foreground="0x00A5C7C7" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Attribute" Foreground="0x00918049" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Attribute Quotes" Foreground="0x0078B499" Background="0x00264637" BoldFont="No"/>
 							<Item Name="XML Attribute Value" Foreground="0x0078B499" Background="0x00264637" BoldFont="Yes"/>
@@ -154,7 +154,7 @@
 							<Item Name="XML Keyword" Foreground="0x006A695B" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Name" Foreground="0x001CC8AF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Processing Instruction" Foreground="0x0054008C" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XML Text" Foreground="0x00D4DED6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Text" Foreground="0x00A5C7C7" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XSLT Keyword" Foreground="0x0054008C" Background="0x02000000" BoldFont="No"/>
 						</Items>
 					</Category>
